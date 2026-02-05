@@ -25,7 +25,7 @@
 
 <h2>Test Artifacts</h2>
 <ul>
-  <li><a href="https://github.com/MaximShakhov/web_testing">Webshop Testing</a> – exploratory and functional testing</li>
+  <li><a href="https://github.com/MaximShakhov/Webshop-Testing">Webshop Testing</a> – exploratory and functional testing</li>
   <li><a href="https://github.com/MaximShakhov/api_testing">API Testing</a> – REST and SOAP via Postman</li>
   <li><a href="https://github.com/MaximShakhov/sql">MySQL</a> – queries and DB validation scripts</li>
   <li><a href="https://github.com/MaximShakhov/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
