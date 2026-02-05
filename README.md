@@ -26,10 +26,10 @@
 <h2>Test Artifacts</h2>
 <ul>
   <li><a href="https://github.com/MaximShakhov/Webshop-Testing">Webshop Testing</a> – exploratory and functional testing</li>
-  <li><a href="https://github.com/MaximShakhov/api_testing">API Testing</a> – REST and SOAP via Postman</li>
-  <li><a href="https://github.com/MaximShakhov/sql">MySQL</a> – queries and DB validation scripts</li>
-  <li><a href="https://github.com/MaximShakhov/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
-  <li><a href="https://github.com/MaximShakhov/bash">Bash</a> – scripts for QA tasks</li>
+  <li><a href="https://github.com/MaximShakhov/API-Testing">API Testing</a> – REST and SOAP via Postman</li>
+  <li><a href="https://github.com/MaximShakhov/MySQL">MySQL</a> – queries and DB validation scripts</li>
+  <li><a href="https://github.com/MaximShakhov/MongoDB">MongoDB</a> – NoSQL queries and exercises</li>
+  <li><a href="https://github.com/MaximShakhov/Bash">Bash</a> – scripts for QA tasks</li>
   <li><a href="https://github.com/MaximShakhov/git">Git</a> – basic version control commands</li>
 </ul>
 
