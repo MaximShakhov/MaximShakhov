@@ -30,7 +30,7 @@
   <li><a href="https://github.com/MaximShakhov/MySQL">MySQL</a> – queries and DB validation scripts</li>
   <li><a href="https://github.com/MaximShakhov/MongoDB">MongoDB</a> – NoSQL queries and exercises</li>
   <li><a href="https://github.com/MaximShakhov/Bash">Bash</a> – scripts for QA tasks</li>
-  <li><a href="https://github.com/MaximShakhov/git">Git</a> – basic version control commands</li>
+  <li><a href="https://github.com/MaximShakhov/Git">Git</a> – basic version control commands</li>
 </ul>
 
 <h3 align="center">📫 Let’s connect and collaborate!</h3>
