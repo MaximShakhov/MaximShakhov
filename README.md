@@ -1,16 +1,4 @@
-<h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="23" alt="ladybug"></h2>
-
-<p>My name is Olga and I am a Software QA Engineer. Here I share web and mobile testing portfolio items developed through courses and personal projects. You are welcome to check out my <a href="https://drive.google.com/file/d/1mqViTjwJLErSLtRAevzvQUk9YSA_3iHo/view?usp=sharing">resume</a>.</p>
-
-<h2>A Few Quick Facts</h2>
-<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245" alt="QA testing gif">
-<ul>
-  <li>🎭 I’m currently learning test automation with Playwright and Selenium.</li>
-  <li>👩🏻‍💻 My most recent role was an Android QA Engineer at <a href="https://www.ivi.ru/">Ivi</a>, one of Eastern Europe’s largest video-streaming services (MAU > 50M).</li>
-  <li>📖 I enjoy mentoring junior specialists and co-designed a course to guide support staff into QA roles.</li>
-  <li>🤝 Whether it's team brainstorming or quiet routine testing, I enjoy both sides of QA work.</li>
-  <li>🏎️ Fun facts: I love Formula 1 and pop culture.</li>
-</ul>
+<p>Привет, меня зовут Максим!<a href="">resume</a>.</p>
 
 <h2>Some Tools I Use</h2>
 <p align="center">
@@ -37,19 +25,19 @@
 
 <h2>Test Artifacts</h2>
 <ul>
-  <li><a href="https://github.com/osukhorukova/web_testing">Webshop Testing</a> – exploratory and functional testing</li>
-  <li><a href="https://github.com/osukhorukova/api_testing">API Testing</a> – REST and SOAP via Postman</li>
-  <li><a href="https://github.com/osukhorukova/sql">MySQL</a> – queries and DB validation scripts</li>
-  <li><a href="https://github.com/osukhorukova/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
-  <li><a href="https://github.com/osukhorukova/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
-  <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
-  <li><a href="https://github.com/osukhorukova/bash">Bash</a> – scripts for QA tasks</li>
-  <li><a href="https://github.com/osukhorukova/git">Git</a> – basic version control commands</li>
+  <li><a href="https://github.com/MaximShakhov/web_testing">Webshop Testing</a> – exploratory and functional testing</li>
+  <li><a href="https://github.com/MaximShakhov/api_testing">API Testing</a> – REST and SOAP via Postman</li>
+  <li><a href="https://github.com/MaximShakhov/sql">MySQL</a> – queries and DB validation scripts</li>
+  <li><a href="https://github.com/MaximShakhov/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
+  <li><a href="https://github.com/MaximShakhov/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
+  <li><a href="https://github.com/MaximShakhov/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
+  <li><a href="https://github.com/MaximShakhov/bash">Bash</a> – scripts for QA tasks</li>
+  <li><a href="https://github.com/MaximShakhov/git">Git</a> – basic version control commands</li>
 </ul>
 
 <h3 align="center">📫 Let’s connect and collaborate!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/osukhorukova/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
-  <a href="https://t.me/olyaskh"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
-  <a href="mailto:o.skhrkv@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/MaximShakhov/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
+  <a href="https://t.me/Maxim1986_333"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
+  <a href="mailto:Shakhovmv@mail.ru@mail.ru"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
 </p>
