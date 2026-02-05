@@ -29,8 +29,6 @@
   <li><a href="https://github.com/MaximShakhov/api_testing">API Testing</a> – REST and SOAP via Postman</li>
   <li><a href="https://github.com/MaximShakhov/sql">MySQL</a> – queries and DB validation scripts</li>
   <li><a href="https://github.com/MaximShakhov/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
-  <li><a href="https://github.com/MaximShakhov/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
-  <li><a href="https://github.com/MaximShakhov/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
   <li><a href="https://github.com/MaximShakhov/bash">Bash</a> – scripts for QA tasks</li>
   <li><a href="https://github.com/MaximShakhov/git">Git</a> – basic version control commands</li>
 </ul>
