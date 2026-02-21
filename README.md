@@ -35,7 +35,6 @@
 
 <h3 align="center">📫 Let’s connect and collaborate!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/MaximShakhov/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
-  <a href="https://t.me/Maxim1986_333"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
+ <a href="https://t.me/Maxim1986_333"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
   <a href="mailto:Shakhovmv@mail.ru"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Mail.Ru_Logo_2018.svg" width="90" height="40" alt="Mail"/></a>
 </p>
